@@ -26,3 +26,8 @@
 | 6 |  27.02.2026   |  Введение в scikit-learn                                           | семинар      |
 
 
+## <a name="lit" /> Список литературы
+1. [Курс лекций по машинному обучению](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) на http://www.machinelearning.ru от Воронцова К. В.
+1. Hastie, T. and Tibshirani, R. and Friedman, J. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), 2nd edition, Springer, 2009.
+2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
+3. Luc Devroye, László Györfi, Gábor Lugosi. [A Probabilistic Theoryof Pattern Recognition](https://www.szit.bme.hu/~gyorfi/pbook.pdf)
