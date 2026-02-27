@@ -19,15 +19,25 @@
 | Номер         | Дата         | Тема лекции/семинара                                    | Тип занятия |
 | ------------- | -------------| -------------                                           |  -------------   |
 | 1 |  13.02.2026   |  Введение в машинное обучение. Организация курса                   | лекция        |
-| 2 |  13.02.2026   |  Решение задачи классификации рукописных цифр на Python            | семинар      |
+| 2 |  13.02.2026   |  Решение задачи классификации рукописных цифр на Python            | семинар       |
 | 3 |  20.02.2026   |  Вероятностный подход к машинному обучению                         | лекция        |
-| 4 |  20.02.2026   |  Обсуждение проектов курса                                         | семинар      |
+| 4 |  20.02.2026   |  Обсуждение проектов курса                                         | семинар       |
 | 5 |  27.02.2026   |  Логистическая регрессия. Наивный байесовский классификатор        | лекция        |
-| 6 |  27.02.2026   |  Введение в scikit-learn                                           | семинар      |
+| 6 |  27.02.2026   |  Введение в scikit-learn                                           | семинар       |
+| 7 |  06.03.2026   |  Метод ближайших соседей                                           | лекция        |
+| 8 |  06.03.2026   |  Кросс-валидация. Выдача соревнования                              | семинар       |
+| 9 |  13.03.2026   |  Линейная регрессия                                                | лекция        |
+|10 |  13.03.2026   |  Препроцессинг данных                                              | семинар       |
+|11 |  20.03.2026   |  Линейные методы классификации                                     | лекция        |
+|12 |  20.03.2026   |  Дизайн архитектуры проектов                                       | семинар       |
+|13 |  27.03.2026   |  Машина опорных векторов                                           | лекция        |
+|14 |  27.03.2026   |  Лучшие практики программирования                                  | семинар       |
+|15 |  03.04.2026   |  Введение в ансамблирование                                        | лекция        |
+|16 |  03.04.2026   |  TBD                                                               | семинар       |
 
 
 ## <a name="lit" /> Список литературы
 1. [Курс лекций по машинному обучению](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) на http://www.machinelearning.ru от Воронцова К. В.
 1. Hastie, T. and Tibshirani, R. and Friedman, J. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), 2nd edition, Springer, 2009.
 2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
-3. Luc Devroye, László Györfi, Gábor Lugosi. [A Probabilistic Theoryof Pattern Recognition](https://www.szit.bme.hu/~gyorfi/pbook.pdf)
+3. Luc Devroye, László Györfi, Gábor Lugosi. [A Probabilistic Theoryof Pattern Recognition](https://www.szit.bme.hu/~gyorfi/pbook.pdf), Springer, 1996.
